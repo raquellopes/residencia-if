@@ -1,0 +1,59 @@
+html{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+	font-family: 'Lexend Deca', sans-serif;
+	/*font-family: 'Raleway', sans-serif; */
+	background-color: #C7CEEA;
+	color: #FFF;
+}
+
+main{
+/* 	background-color: #C7CEEA;	 */
+	height: 93vh;
+	width: 96.5vw;
+}
+
+.card{
+	height: 35em;
+    background-color: #878FC0;
+    text-align: center;
+	transition: all 0.5s;
+	margin-top: 15em;
+	margin-left: 15px;
+}
+
+.card:hover{
+		height: 45em;
+		width: 16em;
+		transition: all 0.5s;
+		cursor: pointer;
+}
+
+.linha{
+	height: 1em;
+	width: 20em;
+	background-color: #878FC0;
+	text-align: center;
+	margin-top: 23.4em;
+}
+
+
+.img-fluid{
+		width: 80%;
+}
+
+/* .tituloprincipal{
+	background-color: #878FC0;
+	width: 70em;
+	margin-top: 5em;
+}
+
+.subtitulo{
+	background-color: #878FC0;
+	width: 35em;
+	font-family: 'Raleway', sans-serif;
+} */
